@@ -1,12 +1,15 @@
-<h1 align="center"> Bonjour 👋, Je m'appelle  <a href="https://www.linkedin.com/in/sylvano-a/"> Sylvano A. !</a></h1>
-<h3 align="center">FRONT-END DEVELOPER  | REACT JS - </h3>
-
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<h1 align="center"> Hello 👋, I'm  <a href="https://www.linkedin.com/in/sylvano-a/"> Sylvano A. !</a></h1>
+<h3 align="center">FRONT-END DEVELOPER  | REACT JS  </h3>
 
 
-- 🔭 &ensp;I’m currently working on Flutter ❤️ projects
-- 🌱 &ensp;I’m currently learning React 
+- 🔭 &ensp;I’m currently working on REACT JS ❤️ projects
+- 🌱 &ensp;I’m currently learning VUE JS 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
-- 👩‍💻 &ensp;I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
-- ⚡ &ensp;Fun fact: I am also a quizzer. Find my quiz questions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/) 
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me on : <a href="https://www.linkedin.com/in/sylvano-a/">LinkedIn</a>  or <a href="https://twitter.com/Sylvano2003">Twitter</a> 💼
+
+
+
+### Languages and Tools
+
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>     <img src="https://img.icons8.com/officel/40/000000/react.png"/>  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>
